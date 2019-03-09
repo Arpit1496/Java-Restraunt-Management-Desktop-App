@@ -122,7 +122,7 @@ public class EmployeeRemoveFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java project batch\\Day 15\\user (1).png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/user (1).png"))); // NOI18N
         jLabel3.setText("jLabel3");
 
         btnRemove.setBackground(new java.awt.Color(0, 0, 0));

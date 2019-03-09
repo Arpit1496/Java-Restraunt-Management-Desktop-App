@@ -89,13 +89,13 @@ public class ViewMenuFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\food-menu.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/food-menu.png"))); // NOI18N
         jLabel3.setText("jLabel3");
 
         categoryPanel.setBackground(new java.awt.Color(0, 0, 0));
         categoryPanel.setBorder(javax.swing.BorderFactory.createTitledBorder(new javax.swing.border.LineBorder(new java.awt.Color(255, 255, 255), 2, true), "CHOOSE CATEGORY", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Tahoma", 0, 24), new java.awt.Color(255, 153, 0))); // NOI18N
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\menu.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/menu.jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
 
         catTable.setModel(new javax.swing.table.DefaultTableModel(

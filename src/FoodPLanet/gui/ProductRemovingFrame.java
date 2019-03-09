@@ -95,7 +95,7 @@ public class ProductRemovingFrame extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Remove Product");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\remove product.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/remove product.jpg"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         jPanel2.setBackground(new java.awt.Color(0, 0, 0));

@@ -396,7 +396,7 @@ public class AdminChoicesFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\Admin icon 2.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Admin icon 2.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         txtUser.setBackground(new java.awt.Color(0, 0, 0));

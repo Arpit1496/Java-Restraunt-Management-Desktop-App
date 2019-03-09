@@ -76,7 +76,7 @@ public class CategoryViewFrame extends javax.swing.JFrame {
         jLabel1.setForeground(new java.awt.Color(255, 153, 0));
         jLabel1.setText("All Categories Details");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\categoryView.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/categoryView.jpg"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         jScrollPane1.setBackground(new java.awt.Color(0, 0, 0));

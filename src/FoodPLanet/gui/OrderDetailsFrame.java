@@ -90,7 +90,7 @@ public class OrderDetailsFrame extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Order Details");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\Order Details.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Order Details.jpg"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         txtUser.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N

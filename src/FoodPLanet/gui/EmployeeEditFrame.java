@@ -177,7 +177,7 @@ public class EmployeeEditFrame extends javax.swing.JFrame {
         jLabel1.setForeground(new java.awt.Color(255, 153, 0));
         jLabel1.setText("Edit Employee Details");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\EditEmployee.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/EditEmployee.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         btnBack.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N

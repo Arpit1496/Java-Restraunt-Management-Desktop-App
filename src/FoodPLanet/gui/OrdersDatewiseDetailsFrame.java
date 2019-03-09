@@ -70,7 +70,7 @@ public class OrdersDatewiseDetailsFrame extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Datewise Orders Details");
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\date order 5.jpg")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/date order 5.jpg"))); // NOI18N
         jLabel3.setText("jLabel3");
 
         jPanel2.setBackground(new java.awt.Color(0, 0, 0));

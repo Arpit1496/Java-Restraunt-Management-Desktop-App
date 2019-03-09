@@ -133,7 +133,7 @@ public class CategoryAddFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\View food panel.jpg")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/View food panel.jpg"))); // NOI18N
         jLabel3.setText("jLabel3");
 
         txtUser.setBackground(new java.awt.Color(0, 0, 0));

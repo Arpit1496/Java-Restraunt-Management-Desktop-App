@@ -172,7 +172,7 @@ public class EmployeeSingleViewFrame extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\single view employee.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/single view employee.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         txtUser.setBackground(new java.awt.Color(0, 0, 0));

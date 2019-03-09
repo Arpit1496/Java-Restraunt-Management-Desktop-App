@@ -84,7 +84,7 @@ public class SplashScreenFrame extends javax.swing.JFrame {
         jPB.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jPB.setForeground(new java.awt.Color(255, 153, 0));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\loading pic.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/loading pic.jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);

@@ -203,7 +203,7 @@ public class CashierRegisterFrame extends javax.swing.JFrame {
 
         jPanel2Layout.linkSize(javax.swing.SwingConstants.VERTICAL, new java.awt.Component[] {jLabel3, jLabel4, jLabel5, jLabel6});
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\cashier register.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/cashier register.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         btnBack.setBackground(new java.awt.Color(0, 0, 0));

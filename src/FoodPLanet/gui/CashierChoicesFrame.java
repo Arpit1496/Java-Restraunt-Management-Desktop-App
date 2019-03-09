@@ -51,7 +51,7 @@ public class CashierChoicesFrame extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(51, 51, 51));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\Cashier frame.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Cashier frame.jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
 
         jLabel2.setBackground(new java.awt.Color(255, 153, 0));

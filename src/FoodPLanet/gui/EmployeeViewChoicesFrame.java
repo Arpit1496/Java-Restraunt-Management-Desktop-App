@@ -76,7 +76,7 @@ public class EmployeeViewChoicesFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\Admin icon.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Admin icon.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         btnView.setBackground(new java.awt.Color(0, 0, 0));

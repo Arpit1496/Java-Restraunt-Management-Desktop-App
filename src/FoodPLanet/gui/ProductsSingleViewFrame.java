@@ -82,7 +82,7 @@ public class ProductsSingleViewFrame extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Single Product Details");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\Single product.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Single product.jpg"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         jPanel2.setBackground(new java.awt.Color(0, 0, 0));

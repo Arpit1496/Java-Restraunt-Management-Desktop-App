@@ -475,7 +475,7 @@ public class TakeOrderFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\take order.jpg")); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/take order.jpg"))); // NOI18N
         jLabel7.setText("jLabel7");
 
         btnLogOut.setBackground(new java.awt.Color(0, 0, 0));

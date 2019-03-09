@@ -123,7 +123,7 @@ public class CashierRemoveFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel9.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\remove employee.png")); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/remove employee.png"))); // NOI18N
         jLabel9.setText("jLabel3");
 
         btnRemove.setBackground(new java.awt.Color(0, 0, 0));

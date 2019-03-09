@@ -77,7 +77,7 @@ public class LoginFrame extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(0, 0, 0));
         jPanel1.setBorder(javax.swing.BorderFactory.createEtchedBorder(javax.swing.border.EtchedBorder.RAISED));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\arpit\\Desktop\\Java Project pics\\Splash Screen 2.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Splash Screen 2.jpg"))); // NOI18N
         jLabel1.setText("jLabel1");
 
         jLabel2.setBackground(new java.awt.Color(255, 255, 255));
