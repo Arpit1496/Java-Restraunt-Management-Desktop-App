@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/AdminChoicesFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/EmployeeEditFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/foodplanetapp/Dao/CategoriesDao.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/EmployeeSingleViewFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/ViewMenuFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/ProductsAddingFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/foodplanetapp/Dao/UserDao.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/Main.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/CashierChoicesFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/ProductsSingleViewFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/EmployeeViewChoicesFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/PlanetFood/pojo/Orders_Details.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/EmployeeRemoveFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/OrdersDatewiseDetailsFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/SplashScreenFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/EmployeeAddFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/PlanetFood/pojo/UserProfile.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/PlanetFood/pojo/Product.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/PlanetFood/pojo/User.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/ProductViewChoicesFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/ProductEditingFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/CashierRemoveFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/EmployeeAllViewFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/ProductRemovingFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/foodplanetapp/Dao/ProductDao.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/OrdersAllDetailsFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/foodplanetapp/DbConnection/util/DbConnection.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/CategoryAddFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/PlanetFood/pojo/Orders.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/OrderDetailsFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/LoginFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/foodplanetapp/Dao/OrdersDao.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/foodplanetapp/Dao/OrdersDetailsDao.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/PlanetFood/pojo/Employee.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/foodplanetapp/Dao/EmployeeDao.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/PlanetFood/pojo/Categories.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/ProductAllViewFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/CashierRegisterFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/CategoryViewFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/OrderChoicesFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/CategoryEditFrame.java</file>
+            <file>file:/C:/Users/arpit/Documents/NetBeansProjects/FoodPlanetApp/src/FoodPLanet/gui/TakeOrderFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
